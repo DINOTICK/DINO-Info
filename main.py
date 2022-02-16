@@ -29,6 +29,7 @@ class App:
         GLabel_608["bg"] = "#999999"
         GLabel_608["justify"] = "center"
         GLabel_608["text"] = "System Info"
+        GLabel_608["relief"] = "sunken"
         GLabel_608.place(x=20,y=0,width=190,height=35)
 
         GLabel_171=tk.Label(root)
@@ -37,9 +38,10 @@ class App:
         GLabel_171["bg"] = "#999999"
         ft = tkFont.Font(family='Times',size=10)
         GLabel_171["font"] = ft
-        GLabel_171["fg"] = "#333333"
+        GLabel_171["fg"] = "#999999"
         GLabel_171["justify"] = "center"
         GLabel_171["text"] = ""
+        GLabel_171["relief"] = "ridge"
         GLabel_171.place(x=20,y=30,width=190,height=3)
 
         GLabel_527=tk.Label(root)
