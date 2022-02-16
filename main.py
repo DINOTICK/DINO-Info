@@ -1,5 +1,4 @@
 from Infogather import System_information
-System_information()
 import tkinter as tk
 import tkinter.font as tkFont
 import platform
