@@ -23,3 +23,5 @@ Found a bug? Submit a issue request!
 
 The DINOTICK team: DINO
 Contributers: DINO
+
+(I forgot to set this repository to public lmao)
